@@ -1,2 +1,2 @@
 # aurelia-skeleton
-Opinionated Aurelia skeleton
+Opinionated Aurelia skeleton for the SWAN stack
